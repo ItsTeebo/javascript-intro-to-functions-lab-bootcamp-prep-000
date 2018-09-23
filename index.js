@@ -18,8 +18,8 @@ if (string === "I love you, Grandma") {
   console.log("I love you, too")
 } else if (string === uppercase) {
   console.log("YES INDEED!")
-} else if (string === uppercase) {
-    console.log("YES INDEED!")
+} else {
+    console.log("I can't hear you!")
 }
 
 var uppercase = "Hello!"
