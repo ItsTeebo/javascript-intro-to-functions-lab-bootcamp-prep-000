@@ -16,11 +16,11 @@ function logWhisper(string) {
 
 if (string === "I love you, Grandma") {
   console.log("I love you, too")
-} else if (string === lowercase) {
-  console.log("I can't hear you!")
-} else (string === uppercase) {
+} else if (string === uppercase) {
+  console.log("YES INDEED!")
+} else if (string === uppercase) {
     console.log("YES INDEED!")
-} 
+}
 
 var uppercase = "Hello!"
 
