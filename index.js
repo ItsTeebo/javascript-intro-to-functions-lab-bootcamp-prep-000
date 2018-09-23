@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   return ("I can't hear you!")
 }
 
-sayHiToGrandma
+if sayHiToGrandma(string) 
 
 var uppercase = "Hello!"
 
